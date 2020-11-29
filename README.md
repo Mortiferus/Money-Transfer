@@ -2,7 +2,7 @@
 
 ### Краткое описание
 
-Было создано [базовое приложение](https://github.com/Cliffart44/Java_hw_1.2.1/blob/master/src/Main.java), позволившее воспроизвести [ситуацию](https://github.com/netology-code/javaqa-homeworks/tree/master/programming#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1---money-transfer), в результате которой баланс VIP-клиента отобразился некорректно при пополнении счёта.
+Было создано [базовое приложение](https://github.com/Mortiferus/Money-Transfer/blob/main/Main.java), позволившее воспроизвести [ситуацию](https://github.com/netology-code/javaqa-homeworks/tree/master/programming#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1---money-transfer), в результате которой баланс VIP-клиента отобразился некорректно при пополнении счёта.
 
 ### Описание тестов
 
@@ -11,7 +11,7 @@
 ### Результаты
 
 - **1** неуспешный тест.
-- [Ссылка](https://github.com/Cliffart44/Java_hw_1.2.1/issues/1) на баг-репорт.
+- [Ссылка](https://github.com/Mortiferus/Money-Transfer/issues/1) на баг-репорт.
 
 ### Общие рекомендации
 
